@@ -1,6 +1,9 @@
 {
-  "open_ai_api_key": "YOUR API KEY",
-  "model": "gpt-3.5-turbo",
+  "open_ai_api_key": "d331f54b48c44ea7aeee349a01be247c",
+  "model": "gpt-35-turbo",
+  "open_ai_api_base":"https://oscarchatapi.openai.azure.com/",
+  "azure_deployment_id": "oscarapi",
+  "use_azure_chatgpt": true,  
   "proxy": "",
   "single_chat_prefix": [
     "bot",
